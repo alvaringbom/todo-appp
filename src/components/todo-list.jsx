@@ -43,7 +43,7 @@ const TodoList = () => {
       <div className="todo-list">
         <TodoInput addTodo={addTodo} />
         {allTodosDone && (
-          <div classname="hurra-message">
+          <div className="hurra-message">
             <h2>HURRA! Du är klar!</h2>
           </div>
         )}

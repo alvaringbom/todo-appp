@@ -90,7 +90,7 @@ ul {
   width: 100%;
   align-items: center;
   justify-content: space-between;
-  background: #f9f9f9;
+  background: linear-gradient(135deg, #ffead261, #ffc7db61);
   padding: 12px;
   border-radius: 8px;
   margin-bottom: 10px;
